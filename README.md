@@ -20,4 +20,4 @@ It allows you to:
 
 How to run:
 
-If you're using Visual Studio, simply download the file and run the 
+If you're using Visual Studio, simply download the file and open the Battleship-StateTracker.sln, then click run.
