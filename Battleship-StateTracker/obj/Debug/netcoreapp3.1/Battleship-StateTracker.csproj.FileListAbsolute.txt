@@ -1,0 +1,12 @@
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/bin/Debug/netcoreapp3.1/Battleship-StateTracker.deps.json
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/bin/Debug/netcoreapp3.1/Battleship-StateTracker.runtimeconfig.json
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/bin/Debug/netcoreapp3.1/Battleship-StateTracker.runtimeconfig.dev.json
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/bin/Debug/netcoreapp3.1/Battleship-StateTracker.dll
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/bin/Debug/netcoreapp3.1/Battleship-StateTracker.pdb
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.csprojAssemblyReference.cache
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.AssemblyInfoInputs.cache
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.AssemblyInfo.cs
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.csproj.CoreCompileInputs.cache
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.dll
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.pdb
+/Users/liekunshen/Projects/Battleship-StateTracker/Battleship-StateTracker/obj/Debug/netcoreapp3.1/Battleship-StateTracker.genruntimeconfig.cache
