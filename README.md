@@ -16,3 +16,8 @@ It allows you to:
 
 ● Return whether the player has lost the game yet (i.e. all battleships are sunk)
 (You have unlimited tries until the ship has been sunk, then you'll win the game)
+
+
+How to run:
+
+If you're using Visual Studio, simply download the file and run the 
